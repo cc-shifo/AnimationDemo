@@ -1,0 +1,10 @@
+/EntryAnimatorDemo/*.iml
+/EntryAnimatorDemo/.gradle
+/EntryAnimatorDemo/local.properties
+/EntryAnimatorDemo/.idea/workspace.xml
+/EntryAnimatorDemo/.idea/libraries
+/EntryAnimatorDemo/.DS_Store
+/EntryAnimatorDemo/build/*
+/EntryAnimatorDemo/captures
+/EntryAnimatorDemo/.externalNativeBuild
+EntryAnimatorDemo/app/build/*

@@ -1,0 +1,7 @@
+#Tue Oct 31 17:14:25 CST 2017
+base.0=D\:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0e7f50df06be61f4d1a86edec7ff563f292f4890
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffecab584f45dc6466a35b423b81fa592b729ffd\\classes.dex
+base.1=D\:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffecab584f45dc6466a35b423b81fa592b729ffd
+file.0=D\:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0e7f50df06be61f4d1a86edec7ff563f292f4890\\classes.dex

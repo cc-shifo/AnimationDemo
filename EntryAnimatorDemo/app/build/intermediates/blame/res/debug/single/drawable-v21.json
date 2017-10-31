@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\be0bb6e868e384693ba906b8c0f5f07324b30459\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\54b392eaf0b333ad8ab7810c82e64109be32e4c3\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\54b392eaf0b333ad8ab7810c82e64109be32e4c3\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\be0bb6e868e384693ba906b8c0f5f07324b30459\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\54b392eaf0b333ad8ab7810c82e64109be32e4c3\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\be0bb6e868e384693ba906b8c0f5f07324b30459\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\be0bb6e868e384693ba906b8c0f5f07324b30459\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Documents and Settings\\Administrator\\.android\\build-cache\\54b392eaf0b333ad8ab7810c82e64109be32e4c3\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

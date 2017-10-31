@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\workspace\\java\\EntryAnimatorDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
